@@ -1,0 +1,22 @@
+
+
+1 - O que é ótica do SCRUM ?
+
+O que é Scrum? Scrum é um conjunto de boas práticas empregado no gerenciamento de projetos complexos, em que não se conhece todas as etapas ou necessidades. Focado nos membros da equipe, o Scrum torna os processos mais simples e claros, pois mantém registros visíveis sobre o andamento de todas as etapas.
+
+2 - O que é Scrum Master ?
+
+Scrum Master. O Scrum Master é o responsável por garantir que o Time Scrum se oriente pelos valores e práticas do Scrum. O Scrum Master protege o time, certificando-se de que os membros não se comprometam com compromissos além dos que eles conseguem cumprir dentro de uma Sprint.
+
+3 - O que é PO ?
+
+No Scrum, o Product Owner ou simplesmente P.O. (tradução: Dono do Produto) atua como um “procurador” do cliente, responsável por trabalhar com gerenciamento de produto em qualquer área: pode ser no desenvolvimento de software, e-commerces, treinamentos digitais e muitos outros setores
+
+4 - Líder equipe de TI ?
+
+Um líder de TI desempenha um papel crucial no alinhamento da tecnologia com os objetivos e metas organizacionais. Isso envolve entender as necessidades e demandas dos diferentes departamentos da empresa e garantir que os recursos de TI estejam sendo utilizados de forma eficaz para atender a essas necessidades.
+
+
+5 - Equipe de tecnologia ?
+
+A equipe de TI é responsável pela situação atual e pelo futuro tecnológico de uma organização. Além disso, os profissionais de TI também são responsáveis por desenvolver e implementar soluções tecnológicas para atender às necessidades da empresa, além de treinar e dar suporte aos usuários finais
